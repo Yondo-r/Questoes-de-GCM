@@ -55,5 +55,23 @@ Não, quando se utiliza o GitHub é criado apenas um repositorio remoto. Para ge
 
 9) No cenário abaixo, qual será o conteúdo do arquivo após o 2o. merge? Há algum conflito que deverá ser resolvido manualmente? Explique a sua resposta. 
 
+Sim, há conflito, pois houve remoção de conteúdo de dentro do arquivo, após o tratamento o arquivo final será:
+
+#file quadrado.py
+print('inicio')
+n1 = int(input('n1:'))
+quadrado = n1*n1
+print(quadrado)
+#calculo do quadrado
+print('fim')
+
 
 10) No cenário abaixo, qual será o conteúdo do arquivo após o 2o. merge? Há algum conflito que deverá ser resolvido manualmente? Explique a sua resposta.
+
+Não ocorrem conflitos após 2º merge.
+                        
+ #file dobro.py 
+n = int(input('n:'))
+dobro = 2*n
+print(dobro)
+print('fim')
