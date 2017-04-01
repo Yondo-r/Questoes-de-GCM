@@ -36,10 +36,9 @@ Arquitetura descentralizada (ou distribuída): Trabalha no próprio computador
 descentralizada sobre as ferramentas de arquitetura centralizada.
 
 
-7) Quando você utiliza o GitHub através da interface web da aplicação, está sendo criado
+7) Quando você utiliza o GitHub através da interface web da aplicação, está sendo criado algum repositório local no seu computador? Explique sua resposta.
 
-algum repositório local no seu computador? Explique sua resposta.
-
+Não, quando se utiliza o GitHub é criado apenas um repositorio remoto. Para gerar um repositorio local é necessario clonar o repositorio remoto e integra-lo a alguma IDE(Eclipse, NetBeans, Visual Studio) ou fazer esse procedimento atraves da instalação de alguma aplicação que permite realizar o gerenciamento de repositorios locais e remotos(Git, TortoiseGit,SourceTime, GitHub Desktop).
 
 8) Cite 5 operações que são comuns às ferramentas de controle de versão de código-fonte.
 
@@ -54,9 +53,7 @@ algum repositório local no seu computador? Explique sua resposta.
  Lock/unlock
 
 
-9) No cenário abaixo, qual será o conteúdo do arquivo após o 2o. merge? Há algum conflito
-que deverá ser resolvido manualmente? Explique a sua resposta. 3 / 5
+9) No cenário abaixo, qual será o conteúdo do arquivo após o 2o. merge? Há algum conflito que deverá ser resolvido manualmente? Explique a sua resposta. 
 
 
-10) No cenário abaixo, qual será o conteúdo do arquivo após o 2o. merge? Há algum conflito
-que deverá ser resolvido manualmente? Explique a sua resposta.
+10) No cenário abaixo, qual será o conteúdo do arquivo após o 2o. merge? Há algum conflito que deverá ser resolvido manualmente? Explique a sua resposta.
