@@ -1,6 +1,7 @@
 # Questoes-de-GCM
 
 1º O que é o gerenciamento de configuração de software?
+
 Este termo refere-se à disciplina de avaliação, coordenação, aprovação ou rejeição e
 implementação de mudanças em artefatos que são usados para construir e manter
 sistemas de software
